@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=lBk5YhLZevs&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 #### 03. 데이터베이스 개체  (범위 제외)
 
 
+
 ## Study Schedule
 
 | 주차  | 공부 범위     | 완료 여부 |
