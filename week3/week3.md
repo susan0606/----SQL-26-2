@@ -242,7 +242,7 @@ INSERT INTO orders VALUES
 
 ![alt text](week3_image/image-8.png)
 
-![alt text](week3_image/image-9.png)
+![alt text](week3_image/image-10.png)
 ### 🎉 수고하셨습니다.
 
 
