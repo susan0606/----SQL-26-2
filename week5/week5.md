@@ -105,9 +105,9 @@ https://www.youtube.com/watch?v=aiMSluMNzI8&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 <!-- '인덱스 생성과 제거 실습(310p~)' 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 2장 이상 제출해 주세요. -->
 
-![alt text](image.png)
+![alt text](week5/image.png)
 
-![alt text](image-1.png)
+![alt text](week5/image-1.png)
 
 ---
 
@@ -161,13 +161,13 @@ INSERT INTO employees VALUES
 
 인덱스 생성 결과, EXPLAIN 실행 결과, 인덱스 삭제 결과가 모두 보이도록 캡처하여 제출하세요.
 
-![alt text](image-2.png)
+![alt text](week5/image-2.png)
 
-![alt text](image-3.png)
+![alt text](week5/image-3.png)
 
-![alt text](image-4.png)
+![alt text](week5/image-4.png)
 
-![alt text](image-5.png)
+![alt text](week5/image-5.png)
 
 
 ### 🎉 수고하셨습니다.
